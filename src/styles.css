@@ -1,0 +1,20 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: var(--ytb-background-color);
+    overflow-y: scroll;
+    font-family: Roboto, 'Times New Roman', Times, serif;
+}
+
+#scrollBar{
+    overflow-x: scroll;
+    scrollbar-width: none;
+}
+
+#scrollBar::-webkit-scrollbar{
+    display: none;
+}
+/* ::-webkit-scrollbar {
+    width: 4px;
+    display: none;
+} */

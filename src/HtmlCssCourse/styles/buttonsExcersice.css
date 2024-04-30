@@ -1,0 +1,25 @@
+.addBtn {
+    background-color: rgb(255, 234, 0);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: medium;
+    padding: 10px 15px;
+    width: 9.5rem;
+    transition: background-color 0.25s, opacity 0.15s;
+
+}
+.buyBtn {
+    background-color: rgb(255, 187, 0);
+    border: none;
+    border-radius: 20px;
+    cursor: pointer; 
+    font-size: medium;
+    padding: 10px 15px;
+    width: 9rem;
+    transition: background-color 0.25s, opacity 0.15s;
+}
+.price{
+    color: rgb(11, 176, 11);
+    font-weight: bold;
+}

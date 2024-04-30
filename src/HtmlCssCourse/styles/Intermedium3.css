@@ -1,0 +1,30 @@
+/* these are pseudo classes only apply when situation happens */
+.youtubeBtn:hover{
+    opacity: 0.8;
+}
+.youtubeBtn:active{
+    opacity: 0.5;
+}
+.joinBtn:hover{
+    background-color: rgb(63, 170, 251);;
+    color:white;
+}
+.joinBtn:active{
+    opacity: 0.7;
+}
+.tweetBtn:hover{
+    box-shadow: 5px 5px 9px rgba(0, 0, 0, 0.18);
+    /* horizontal, vertical, blur, color box shadow */
+}
+.addBtn:hover{
+    background-color: rgb(255, 230, 0);;
+}
+.addBtn:active{
+    opacity: 0.7;
+}
+.buyBtn:hover{
+    background-color: rgb(255, 153, 0);
+}
+.buyBtn:active{
+    opacity: 0.8;
+}
